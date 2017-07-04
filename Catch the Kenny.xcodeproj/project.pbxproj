@@ -1,0 +1,317 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EF51C9D91F0BCC27008DB628 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51C9D81F0BCC27008DB628 /* AppDelegate.swift */; };
+		EF51C9DB1F0BCC27008DB628 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF51C9DA1F0BCC27008DB628 /* ViewController.swift */; };
+		EF51C9DE1F0BCC27008DB628 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF51C9DC1F0BCC27008DB628 /* Main.storyboard */; };
+		EF51C9E01F0BCC27008DB628 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF51C9DF1F0BCC27008DB628 /* Assets.xcassets */; };
+		EF51C9E31F0BCC27008DB628 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EF51C9E11F0BCC27008DB628 /* LaunchScreen.storyboard */; };
+		EF51C9EB1F0BCC51008DB628 /* Kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF51C9EA1F0BCC51008DB628 /* Kenny.jpg */; };
+		EF51C9ED1F0BCE98008DB628 /* QTSTEAM LOGO FINAL.png in Resources */ = {isa = PBXBuildFile; fileRef = EF51C9EC1F0BCE98008DB628 /* QTSTEAM LOGO FINAL.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EF51C9D51F0BCC27008DB628 /* Catch the Kenny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Catch the Kenny.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EF51C9D81F0BCC27008DB628 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EF51C9DA1F0BCC27008DB628 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EF51C9DD1F0BCC27008DB628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EF51C9DF1F0BCC27008DB628 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EF51C9E21F0BCC27008DB628 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EF51C9E41F0BCC27008DB628 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF51C9EA1F0BCC51008DB628 /* Kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kenny.jpg; sourceTree = "<group>"; };
+		EF51C9EC1F0BCE98008DB628 /* QTSTEAM LOGO FINAL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QTSTEAM LOGO FINAL.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EF51C9D21F0BCC27008DB628 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EF51C9CC1F0BCC27008DB628 = {
+			isa = PBXGroup;
+			children = (
+				EF51C9D71F0BCC27008DB628 /* Catch the Kenny */,
+				EF51C9D61F0BCC27008DB628 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EF51C9D61F0BCC27008DB628 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EF51C9D51F0BCC27008DB628 /* Catch the Kenny.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EF51C9D71F0BCC27008DB628 /* Catch the Kenny */ = {
+			isa = PBXGroup;
+			children = (
+				EF51C9D81F0BCC27008DB628 /* AppDelegate.swift */,
+				EF51C9EC1F0BCE98008DB628 /* QTSTEAM LOGO FINAL.png */,
+				EF51C9EA1F0BCC51008DB628 /* Kenny.jpg */,
+				EF51C9DA1F0BCC27008DB628 /* ViewController.swift */,
+				EF51C9DC1F0BCC27008DB628 /* Main.storyboard */,
+				EF51C9DF1F0BCC27008DB628 /* Assets.xcassets */,
+				EF51C9E11F0BCC27008DB628 /* LaunchScreen.storyboard */,
+				EF51C9E41F0BCC27008DB628 /* Info.plist */,
+			);
+			path = "Catch the Kenny";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EF51C9D41F0BCC27008DB628 /* Catch the Kenny */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF51C9E71F0BCC27008DB628 /* Build configuration list for PBXNativeTarget "Catch the Kenny" */;
+			buildPhases = (
+				EF51C9D11F0BCC27008DB628 /* Sources */,
+				EF51C9D21F0BCC27008DB628 /* Frameworks */,
+				EF51C9D31F0BCC27008DB628 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Catch the Kenny";
+			productName = "Catch the Kenny";
+			productReference = EF51C9D51F0BCC27008DB628 /* Catch the Kenny.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EF51C9CD1F0BCC27008DB628 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = MacTechin;
+				TargetAttributes = {
+					EF51C9D41F0BCC27008DB628 = {
+						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = L5Y8H9PGP8;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = EF51C9D01F0BCC27008DB628 /* Build configuration list for PBXProject "Catch the Kenny" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = EF51C9CC1F0BCC27008DB628;
+			productRefGroup = EF51C9D61F0BCC27008DB628 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EF51C9D41F0BCC27008DB628 /* Catch the Kenny */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EF51C9D31F0BCC27008DB628 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF51C9E31F0BCC27008DB628 /* LaunchScreen.storyboard in Resources */,
+				EF51C9EB1F0BCC51008DB628 /* Kenny.jpg in Resources */,
+				EF51C9E01F0BCC27008DB628 /* Assets.xcassets in Resources */,
+				EF51C9DE1F0BCC27008DB628 /* Main.storyboard in Resources */,
+				EF51C9ED1F0BCE98008DB628 /* QTSTEAM LOGO FINAL.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EF51C9D11F0BCC27008DB628 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EF51C9DB1F0BCC27008DB628 /* ViewController.swift in Sources */,
+				EF51C9D91F0BCC27008DB628 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EF51C9DC1F0BCC27008DB628 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF51C9DD1F0BCC27008DB628 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		EF51C9E11F0BCC27008DB628 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EF51C9E21F0BCC27008DB628 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EF51C9E51F0BCC27008DB628 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EF51C9E61F0BCC27008DB628 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EF51C9E81F0BCC27008DB628 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L5Y8H9PGP8;
+				INFOPLIST_FILE = "Catch the Kenny/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MacTechin.Catch-the-Kenny";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		EF51C9E91F0BCC27008DB628 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L5Y8H9PGP8;
+				INFOPLIST_FILE = "Catch the Kenny/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.MacTechin.Catch-the-Kenny";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EF51C9D01F0BCC27008DB628 /* Build configuration list for PBXProject "Catch the Kenny" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF51C9E51F0BCC27008DB628 /* Debug */,
+				EF51C9E61F0BCC27008DB628 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF51C9E71F0BCC27008DB628 /* Build configuration list for PBXNativeTarget "Catch the Kenny" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF51C9E81F0BCC27008DB628 /* Debug */,
+				EF51C9E91F0BCC27008DB628 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EF51C9CD1F0BCC27008DB628 /* Project object */;
+}
